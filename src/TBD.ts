@@ -19,7 +19,7 @@ class TBD extends LetItBe {
 
   public chorusA: string = `
     TBD, TBD, TBD, yeah TBD.
-    I will fix it late, TBD.
+    I will fix it later, TBD.
     `;
 
   public partB: string = `           
