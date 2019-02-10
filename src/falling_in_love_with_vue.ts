@@ -8,20 +8,20 @@ class FallingInLove extends CantHelpFallingInLove {
   public chorus: string = `
     Wise men say
     Only fools rush in
-    But I can't help falling in love with vue
+    But I can't help falling in love with Vue
     Shall I stay?
     Would it be a sin
-    If I can't help falling in love with vue?
+    If I can't help falling in love with Vue?
   `;
 
   public partB: string = `
-    Like a river flows
-    Surely to the sea
-    Darling, so it goes
-    Some things are meant to be
+    Who needs Angular?
+    React is for fools
+    Backbone's history
+    Vue, is meant for me
     Take my app,
-    Take my whole life, too
-    For I can't help falling in love with vue
+    Take my whole code, too
+    For I can't help falling in love with Vue
     `;
 
 }
