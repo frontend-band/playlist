@@ -19,7 +19,7 @@ class LosingMyConventions extends LosingMyReligion {
 
   public partB: string = `
     That's me in the office
-    That's me with sublime text
+    That's me with my Web Storm
     Losing my conventions
     Trying to keep up with you
     And I don't know if I can merge it
