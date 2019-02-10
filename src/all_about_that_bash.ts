@@ -4,7 +4,7 @@ class AllAboutThatBass {
 }
 
 const CHORUS_LINE_SHORT = `I'm all about that bash 'Bout that bash`;
-const CHORUS_LINE = `${CHORUS_LINE_SHORT}, no GUI`;
+const CHORUS_LINE = `${CHORUS_LINE_SHORT}, no frontend`;
 
 class AllAboutThatBash extends AllAboutThatBass {
   public chorus: string = `
